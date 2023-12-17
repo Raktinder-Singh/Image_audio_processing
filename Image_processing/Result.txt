@@ -1,0 +1,8 @@
+1. RESULT:
+I have applied all the steps in edge detection code and i got approximately good results for all steps except the last step. I had tried different methods to display the image like plt.imshow and vc2.imshow but everytime a black image showed up as the output.
+
+2. Learned and observed in performing edge detection
+While working on the project i have learned that edge detection is a multi step process. It is a fundamental process in computer vision. It includes steps like noise reduction, Gradient calculation, Non maximum suppression,etc.
+
+3. Cause-and-effect relationships of data preprocessing:
+For noise reduction i applied Gaussian blur which make easier for tracking genuine edges. for gradient calculation i applied sobel operator.
